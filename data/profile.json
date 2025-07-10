@@ -1,6 +1,7 @@
 {
   "name": "Jonathan Teixeira dos Santos",
   "photo": "https://avatars.githubusercontent.com/u/175270870?s=96&v=4",
+  "training": "Gestão da tecnologia da informação",
   "job": "Programador Front-end Junior",
   "location": "Brasilia - DF",
   "phone": "(61) 99156-7752",
@@ -34,19 +35,18 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (intermediário)"
+
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Desafio clone pagina HBO",
+      "url": "https://github.com/JonathanTeixeiraCode/HBO_desafio",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Desafio clone pagina Youtube ",
+      "url": "https://github.com/JonathanTeixeiraCode/clone-youtube",
       "github": true
     }
   ],
